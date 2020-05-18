@@ -67,7 +67,9 @@ A)
 
 3. Lastly, an adverse effect would be that the technology could cause harm to the user. Whether that be physical or mental harm. I would counteract this with thousands of hours of testing and research, and I would only pursue this technology if I was certain that it was safe. If at any point I saw my technology could be unsafe, I would no longer pursue it, because the potential harm would be far greater than the benefits it could bring. 
 
-B) This technology would be benefical upon launch by helping many disabled individuals experience computing and or computer gaming. But a detriment of my technology would be after it has been absorbed by many, there would still be individuals unable to use it, whether that be because their care-takers won't allow them. Or they simply lack the brain capacity - even with my technology - to operate a computer. 
+B) 
+
+This technology would be benefical upon launch by helping many disabled individuals experience computing and or computer gaming. But a detriment of my technology would be after it has been absorbed by many, there would still be individuals unable to use it, whether that be because their care-takers won't allow them. Or they simply lack the brain capacity - even with my technology - to operate a computer. 
 
 5.2.3) I would ensure that my technology "stays the course" by only hiring employees that truly see the benefits and want to help the disabled, not just make money.
 
