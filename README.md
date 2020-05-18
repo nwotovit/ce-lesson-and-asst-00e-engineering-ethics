@@ -74,7 +74,7 @@ This technology would be benefical upon launch by helping many disabled individu
 5.2.3) I would ensure that my technology "stays the course" by only hiring employees that truly see the benefits and want to help the disabled, not just make money.
 
 5.2.4) My code of ethics would be:
-1. Respect the privacy of all users
+1. Respect the privacy of all users.
 2. Ensure that the technology is 100% safe before testing and spreading to consumers.
 3. Ensure that the user (or care-taker) understands all aspects of the technology and agrees to usage.
 4. Ensure that the technology is not only used for entertainment, but also educational purposes. 
